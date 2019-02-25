@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland.EF", "Borland.EF\Borland.EF.csproj", "{7D9ECB80-6EF4-426C-8493-95735E06CFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borland.EF.Tests", "Borland.EF.Tests\Borland.EF.Tests.csproj", "{5E0FBBC8-C3C5-4285-A74A-F063BE77C33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9ECB80-6EF4-426C-8493-95735E06CFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9ECB80-6EF4-426C-8493-95735E06CFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9ECB80-6EF4-426C-8493-95735E06CFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9ECB80-6EF4-426C-8493-95735E06CFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0FBBC8-C3C5-4285-A74A-F063BE77C33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0FBBC8-C3C5-4285-A74A-F063BE77C33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0FBBC8-C3C5-4285-A74A-F063BE77C33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0FBBC8-C3C5-4285-A74A-F063BE77C33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4CBED9-EE2C-4C40-8C30-7F85F4636239}
+	EndGlobalSection
+EndGlobal
